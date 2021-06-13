@@ -1,7 +1,7 @@
 # Algorithm_Cookbook
 This is the cookbook , a list of simple algorithm functionalities problem solution for better concept of data structure and algorithm
 
-#For running thea above codes
+##  For running thea above codes
 
 * Install Node from https://nodejs.org/en/
 * Open each of the file in any editor (VScode Recommended)
